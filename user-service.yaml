@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: '{cipher}AYBB9y1nBmFzZ5791TfOzRExv9K+Oa11i6F9ShvIcWnA9oQSFz0S6zSozJqgDv3eWd7/KMs7FbUMnKO87sb4/Lzes8Q8PC5ryjmIE5efQ7Fis1RZOX6/gVzetC2uhjTcn0wz90MyWCxYDL1SmtopeqNvrfIVw9Qb88Y3J3yBZjr8IXxASw/QSG+UUg5GMk8zi075M5YmOm5noD8msb8J7ym++piUnpxFA16DpF2j7IkeJZSEvt0aD8CtbnsN396m8KgeZbEGMV9oaBxUzAZ1UFa254aLuLukP9In8V/hwDJiiAUPBY9vmWg0G3kVSQQ7T785Tr4RqosPv4CvmdvI6IRhhlefbE81p2hN2EkTmXWF3j0DIQrzE6FjWcLl9u9QEMAOHsQLpcoAZADZ4F5x6ngd7zSbz80KTdOF2umKr+SavtxN2z30uww2gIW7rID4OGXZkWQtClPj0kb68tNoSahZW/nvhw/W9OKUWoE4Oyc27wGJyNKCz6ulpKpx2LRg9avuz2gnU5NSncNhAkKB0Mv7H+daaqiw8LRyrIZlqixKZA=='
-    url: jdbc:mysql://127.0.0.1:3306/test?useSSL=false&serverTimezone=Asia/Seoul&characterEncoding=UTF-8
+    url: jdbc:mysql://172.18.0.9:3306/test?useSSL=false&serverTimezone=Asia/Seoul&characterEncoding=UTF-8
     username: root
   jpa:
     hibernate:
